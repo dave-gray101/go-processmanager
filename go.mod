@@ -1,4 +1,4 @@
-module github.com/mudler/go-processmanager
+module github.com/dave-gray101/go-processmanager
 
 go 1.18
 
